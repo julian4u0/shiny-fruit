@@ -1,0 +1,17 @@
+/* Font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+*{
+  font-family: 'Karla', sans-serif;
+  font-size: 20px;
+}
+
+.irs--shiny .irs-bar {
+    border-top: 1px solid #ef1717;
+    border-bottom: 1px solid #ef1717;
+    background: #ef1717;
+}
+
+.irs--shiny .irs-from, .irs--shiny .irs-to, .irs--shiny .irs-single {
+    background-color: #bf1515;
+}
